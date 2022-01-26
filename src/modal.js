@@ -17,7 +17,7 @@ const Modal = () => {
             questions correctly
           </p>
           <button className="close-btn" onClick={closeModal}>
-            Play again
+            Ok
           </button>
         </div>
       </div>
